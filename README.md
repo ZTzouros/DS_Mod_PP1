@@ -5,7 +5,7 @@ Draft Github portfolio page - currently under development
 # Introduction
 
 # Analysis
-![histograms] (assets/Histograms .png)
+![histograms](assets/Histograms .png)
 # Modelling
 
 # Results
