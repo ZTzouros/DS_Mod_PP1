@@ -4,10 +4,10 @@ Draft Github portfolio page - currently under development
 
 # Introduction
 
-# Anlysis
+# Analysis
 
 # Modelling
 
 # Results
 
-# Conclusion and Recommendations 
+# Conclusions and Recommendations 
