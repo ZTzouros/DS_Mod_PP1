@@ -52,6 +52,7 @@ Blank cells where the book title could not be identified by author and publicati
 Originally there were 1069 rows in the original dataset and 14 columns.99.06% of the original dataset remained after data cleansing and enrichment was performed. 
 
 # Data Analysis
+### Identifying the top 10 Highest Rated Books
 A combination of Microsoft Excel and SQL were used to manipulate the data, this was due to limited (but developing knowledge) of SQL and time management limitations. 
 The Top 10 Books by highest average rating were identified using the ‘Order by’ function which return the results displayed in Figure 2 below. 
 
@@ -59,6 +60,7 @@ The Top 10 Books by highest average rating were identified using the ‘Order by
 
 Figure 2: Top 10 highest rated books 
 
+### Establishing Genres in the Dataset
 3 genres were identified from the dataset, using the syntax in Figure 2 below.
 
 ![Genres](https://github.com/user-attachments/assets/5f83364d-090b-4599-a672-a29d08e217ee)
@@ -67,12 +69,16 @@ Figure 3: Identifying the number of genres in the dataset
 
 These were: Fiction, Non-fiction and Children which made up 83%, 16% and 1% of the dataset respectively. 
 
+### Average Rating Distribution
+A histogram was used to display the distribution of average ratings as ‘A histogram is a chart that plots the distribution of a numeric variable’s values as a series of bars. Each bar typically covers a range of numeric values called a bin or class; a bar’s height indicates the frequency of data points with a value within the corresponding bin’ (Atlassian, n.d.)
+
 The histogram in Figure 4 below, has a symmetric, unimodal with a slight skewed left distribution as the mean (4.00) is less than the median (4.01).
 
 ![Distribution of Average Ratings](https://github.com/user-attachments/assets/d21d202c-e18d-4c8d-8ed9-a1e3fc27f021)
 
 Figure 4: Distribution of Ratings Histogram
 
+### Regression Modelling 
 A logistic regression model was run in Microsoft excel which determined that there is a positive correlation between the category of author and average rating. To prepare the data for regression modelling the Author categories were classified as:
 
 Novice	= 1
@@ -88,6 +94,8 @@ This correlation was confirmed by the P value equalling less than 0.05 and the R
 ![Regression Modelling Output](https://github.com/user-attachments/assets/f74bd21c-a688-4e59-91ed-e29cb5e91549)
 
 Figure 5: Regression modelling output
+
+### The Publising Market
 
 Analysis of the gross sales, publisher revenue and Unit sold data was performed in Microsoft Excel using a pivot table, it was identified that Amazon is the leading market publisher, selling 59% of all units.
 ![The publishing market](https://github.com/user-attachments/assets/09d97074-ba73-46a5-b2c6-a054b4c43adc)
@@ -121,3 +129,9 @@ This project and successfully identified trends and relationships in a book rati
 •	The lowest rated books will be discussed at the book club, as one book may be chosen to review if they deserved to be so poorly rated.
 
 •	As the market leader, Amazon will be approached to ascertain if they offer NHS discount, or would be willing to offer a corporate discount.
+
+
+# Appendices
+Appendix 1: Data Cleansing 
+
+[Appendix 1.Data_cleansing.docx](https://github.com/user-attachments/files/16748349/Appendix.1.Data_cleansing.docx)
