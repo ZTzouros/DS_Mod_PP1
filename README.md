@@ -4,7 +4,7 @@ I am a Data Manager at a large NHS organisation, specialising in Infection Preve
 
 Outside of work I enjoy being a mother to 3 exceptional sons, learning new languages, excercising, cooking and my number 1 guilty pleasure - Reading! I share the opinnion of George R.R. Martin wo said that “A reader lives a thousand lives before he dies . . . The man who never reads lives only one.” and I am keen to live thousands of lives, feel thousands of emotions and share those moments with others through the pages of a book! 
 
-I am currently studying a data science apprenticeship degree with BPP universities and am thoroughly enjoying the challenge, this page details one my module projects. 
+I am currently studying a data science apprenticeship degree with BPP universities and am thoroughly enjoying the challenge, this page details one my (non-work based) module projects. 
 
 # Book Club Recommendations - Using Data Science 
 
