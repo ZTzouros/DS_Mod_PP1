@@ -61,7 +61,7 @@ The Top 10 Books by highest average rating were identified using the ‘Order by
 Figure 2: Top 10 highest rated books 
 
 ### Establishing Genres in the Dataset
-3 genres were identified from the dataset, using the syntax in Figure 2 below.
+3 genres were identified from the dataset, using the syntax in Figure 3 below.
 
 ![Genres](https://github.com/user-attachments/assets/8c6036e2-f235-4eda-8045-b64c8122bf85)
 
